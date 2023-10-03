@@ -1,0 +1,71 @@
+header {
+    background-color: chartreuse;
+    width: 99%;
+    height: 150px;
+    margin-top: 1%;
+    padding:.3em;
+    border-radius: 0.1cm;
+}
+
+nav {
+    background-color: rgb(231, 255, 154);
+    width: 93%;
+    height: 70px;
+    margin: 20px;
+    margin-top: 0%;
+    border-radius: 0.1cm;
+     padding: 10px;
+     box-align: center;
+    
+}
+
+aside {
+
+    background-color: chartreuse;
+  
+    width: 45%;
+    height: 450px;
+    margin-top: 1%;
+    padding:.3em;
+    border-radius: 0.1cm;
+    left: 50%;
+    margin-right:  10px;
+}
+
+section {
+    background-color: chartreuse;
+ 
+    width: 45%;
+    height: 450px;
+    margin-top: 1%;
+    padding:.3em;
+    border-radius: 0.1cm;
+    right: 45%;
+    float: left;
+    margin-right:  10px;
+}
+
+
+
+article {
+    background-color: rgb(231, 255, 154);
+    
+    width: 88%;
+    height: 85px;
+    margin: 15px;
+    margin-top: 0%;
+    border-radius: 0.1cm;
+     padding: 10px;
+}
+
+footer {
+
+    background-color: chartreuse;
+    width: 95%;
+    height: 30%;
+    margin-top: 485px;
+    padding: 0.9em;
+    margin-left: 0;
+
+}
+
